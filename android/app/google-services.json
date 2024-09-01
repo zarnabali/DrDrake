@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202491255123",
+    "project_id": "drdrakify",
+    "storage_bucket": "drdrakify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202491255123:android:0b0ef5d5586d2f800ee9a6",
+        "android_client_info": {
+          "package_name": "com.drdrake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASnYhN6XXi2HrQYdMqSUzd1yUKjhjdUs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
